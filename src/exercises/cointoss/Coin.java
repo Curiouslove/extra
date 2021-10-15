@@ -1,2 +1,5 @@
-package exercises.cointoss;public enum Coin {
+package exercises.cointoss;
+
+public enum Coin {
+    HEADS, TAILS;
 }

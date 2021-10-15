@@ -1,2 +1,5 @@
-package practicewithchief.turtleexercise.enums;public enum PenPosition {
+package practicewithchief.turtleexercise.enums;
+
+public enum PenPosition {
+    DOWN, UP
 }

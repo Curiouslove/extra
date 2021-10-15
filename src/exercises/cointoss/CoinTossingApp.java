@@ -1,2 +1,7 @@
-package exercises.cointoss;public class CoinTossingApp {
+package exercises.cointoss;
+
+public class CoinTossingApp {
+    public static void main(String[] args) {
+
+    }
 }

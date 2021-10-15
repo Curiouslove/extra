@@ -1,2 +1,15 @@
-package practicewithchief.turtleexercise.entities;public class Pen {
+package practicewithchief.turtleexercise.entities;
+
+import practicewithchief.turtleexercise.enums.PenPosition;
+
+public class Pen {
+    private PenPosition position;
+
+    public PenPosition getPosition() {
+        return position;
+    }
+
+    public void setPosition(PenPosition position) {
+        this.position = position;
+    }
 }
